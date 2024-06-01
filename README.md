@@ -1,2 +1,2 @@
-# DeltaTask1
-Delta Task1 submission for SysAd domain
+# DeltaTask1 SysAd
+Hey mentor who is possibly viewing this, this page is still in a draft stage and will be better documented and decorated for the final submission by June3 midnight. Until then, each alias's code is given by the .sh file that shares the same name as the alias. The files titled alias2, alias3 etc are simply to be run by the SU who is setting up the server. The only prerequisite for these files to work is that the usergen.sh file, followed by all the alias1..5.sh files are run while being in the same directory together. Do review the files if you are free and give me ur inputs. Thank you for ur time boss.
