@@ -6,6 +6,7 @@ sudo groupadd mentors
 sudo groupadd mentees
 sudo mkdir /home/core/mentees
 sudo mkdir /home/core/mentors
+sudo touch -f /home/core/cronlogs.txt
 sudo mkdir /home/core/mentors/app /home/core/mentors/web /home/core/mentors/sysad
 sudo touch /home/core/mentees_domain.txt
 sudo chmod 720 /home/core/mentees_domain.txt
