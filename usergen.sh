@@ -126,7 +126,7 @@ while read -r line; do
     sudo chmod -R 700 /home/core/mentees/$v1
     sudo setfacl -R -m u:$v1:rwx /home/core/mentees/$v1
     sudo setfacl -R -m g:$v1:rwx /home/core/mentees/$v1
-    sudo setfacl -m u:$v1:w /home/core/mentees_domain.txt
+    sudo setfacl -R -m u:$v1:w /home/core/mentees_domain.txt
 done < menteeDetails.txt
 sudo echo "vishrudh web 17
 purav sysad 10
